@@ -1,4 +1,4 @@
-# Access-Review-Simulation-in-Eramba-Community-Edition-v3.28.1-
+# Access-Review-Simulation-in-Eramba-Community-Edition-v3.28.1
 This repository documents a hands‑on Access Review simulation performed using Eramba Community Edition 3.28.1.
 The goal of this lab is to demonstrate practical GRC, IAM, and security governance skills by executing a realistic quarterly access review using a lightweight, open‑source GRC platform.
 
